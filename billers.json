@@ -1,0 +1,322 @@
+[
+  {
+    "billerName": "Capital First Agent",
+    "billerCode": "IDFC_AGENT",
+    "partnerCode": "capital_first_agent",
+    "visibilityStatus": "GA",
+    "isActive": false,
+    "order": 1,
+    "logoUrl": "https://livestatic.novopay.in/resources/cms/Capial_First.png",
+    "allowedPartners": ["airtel", "capital_first_agent"]
+  },
+  {
+    "billerName": "Capital First Customer",
+    "billerCode": "IDFC_CUST",
+    "partnerCode": "capital_first_cust",
+    "visibilityStatus": "GA",
+    "isActive": false,
+    "order": 2,
+    "logoUrl": "https://livestatic.novopay.in/resources/cms/Capial_First.png",
+    "allowedPartners": ["airtel", "capital_first_cust"]
+  },
+  {
+    "billerName": "Swiggy",
+    "billerCode": "SWIGGY",
+    "partnerCode": "swiggy",
+    "visibilityStatus": "GA",
+    "isActive": false,
+    "order": 3,
+    "logoUrl": "https://livestatic.novopay.in/resources/cms/Swiggy.png",
+    "allowedPartners": ["airtel", "swiggy"]
+  },
+  {
+    "billerName": "Bajaj Finserv Agent",
+    "billerCode": "BAJAJ_FINSERV_AGENT",
+    "partnerCode": "fino",
+    "visibilityStatus": "GA",
+    "isActive": false,
+    "order": 4,
+    "logoUrl": "https://livestatic.novopay.in/resources/cms/Bajaj_Finserv.png",
+    "allowedPartners": ["fino"]
+  },
+  {
+    "billerName": "Bajaj Finserv Customer",
+    "billerCode": "BAJAJ_FINSERV_CUST",
+    "partnerCode": "fino",
+    "visibilityStatus": "GA",
+    "isActive": false,
+    "order": 5,
+    "logoUrl": "https://livestatic.novopay.in/resources/cms/Bajaj_Finserv.png",
+    "allowedPartners": ["fino"]
+  },
+  {
+    "billerName": "Home Credit",
+    "billerCode": "HOME_CREDIT",
+    "partnerCode": "airtel",
+    "visibilityStatus": "GA",
+    "isActive": false,
+    "order": 6,
+    "logoUrl": "https://livestatic.novopay.in/resources/cms/Home_Credit.png",
+    "allowedPartners": ["airtel"]
+  },
+  {
+    "billerName": "Flipkart",
+    "billerCode": "FLIPKART",
+    "partnerCode": "flipkart",
+    "visibilityStatus": "GA",
+    "isActive": false,
+    "order": 7,
+    "logoUrl": "https://livestatic.novopay.in/resources/cms/Flipkart.png",
+    "allowedPartners": ["flipkart"]
+  },
+  {
+    "billerName": "Zomato",
+    "billerCode": "ZOMATO",
+    "partnerCode": "airtel",
+    "visibilityStatus": "GA",
+    "isActive": false,
+    "order": 8,
+    "logoUrl": "https://livestatic.novopay.in/resources/cms/Zomato.png",
+    "allowedPartners": ["airtel"]
+  },
+  {
+    "billerName": "TVS-E",
+    "billerCode": "TVSE",
+    "partnerCode": "tvse",
+    "visibilityStatus": "GA",
+    "isActive": false,
+    "order": 9,
+    "logoUrl": "https://livestatic.novopay.in/resources/cms/TVS_E.png",
+    "allowedPartners": ["tvse"]
+  },
+  {
+    "billerName": "Mahindra and Mahindra Financial Services Limited",
+    "billerCode": "MMFSL",
+    "partnerCode": "fino",
+    "visibilityStatus": "GA",
+    "isActive": false,
+    "order": 10,
+    "logoUrl": "https://livestatic.novopay.in/resources/cms/Mahindra_Finance.png",
+    "allowedPartners": ["fino"]
+  },
+  {
+    "billerName": "Reliance Retail",
+    "billerCode": "RELIANCE_RETAIL",
+    "partnerCode": "fino",
+    "visibilityStatus": "GA",
+    "isActive": false,
+    "order": 11,
+    "logoUrl": "https://livestatic.novopay.in/resources/cms/Reliance_Retail.png",
+    "allowedPartners": ["fino"]
+  },
+  {
+    "billerName": "Shriram Transport Finance Company Limited",
+    "billerCode": "STFCL_AGENT",
+    "partnerCode": "airtel",
+    "visibilityStatus": "GA",
+    "isActive": false,
+    "order": 12,
+    "logoUrl": "https://livestatic.novopay.in/resources/cms/Shriram.png",
+    "allowedPartners": ["airtel"]
+  },
+  {
+    "billerName": "Shriram Finance Corporation",
+    "billerCode": "SHRIRAM_FIN_CORP",
+    "partnerCode": "airtel",
+    "visibilityStatus": "GA",
+    "isActive": false,
+    "order": 13,
+    "logoUrl": "https://livestatic.novopay.in/resources/cms/Shriram.png",
+    "allowedPartners": ["airtel"]
+  },
+  {
+    "billerName": "Ujjivan",
+    "billerCode": "UJJIVAN_SFB_AGENT",
+    "partnerCode": "airtel",
+    "visibilityStatus": "GA",
+    "isActive": false,
+    "order": 14,
+    "logoUrl": "https://livestatic.novopay.in/resources/cms/Ujjivan_SFB.png",
+    "allowedPartners": ["airtel"]
+  },
+  {
+    "billerName": "LnT Microfinance",
+    "billerCode": "LNT_MICROFINANCE",
+    "partnerCode": "fino",
+    "visibilityStatus": "GA",
+    "isActive": false,
+    "order": 15,
+    "logoUrl": "https://livestatic.novopay.in/resources/cms/L_T.png",
+    "allowedPartners": ["fino"]
+  },
+  {
+    "billerName": "Svatantra MFI",
+    "billerCode": "SVATANTRA_MFI",
+    "partnerCode": "fino",
+    "visibilityStatus": "GA",
+    "isActive": false,
+    "order": 16,
+    "logoUrl": "https://livestatic.novopay.in/resources/cms/Svatantra_Microfin.png",
+    "allowedPartners": ["fino"]
+  },
+  {
+    "billerName": "Svatantra MFI Customer",
+    "billerCode": "SVATANTRA_MFI_CUST",
+    "partnerCode": "fino",
+    "visibilityStatus": "GA",
+    "isActive": false,
+    "order": 17,
+    "logoUrl": "https://livestatic.novopay.in/resources/cms/Svatantra_Microfin.png",
+    "allowedPartners": ["fino"]
+  },
+  {
+    "billerName": "Hero FinCorp Customer",
+    "billerCode": "HERO_FINCORP_CUST",
+    "partnerCode": "fino",
+    "visibilityStatus": "GA",
+    "isActive": false,
+    "order": 18,
+    "logoUrl": "https://livestatic.novopay.in/resources/cms/Hero_Fincorp.png",
+    "allowedPartners": ["fino", "airtel"]
+  },
+  {
+    "billerName": "Lok Suvidha",
+    "billerCode": "LOK_SUVIDHA",
+    "partnerCode": "fino",
+    "visibilityStatus": "GA",
+    "isActive": false,
+    "order": 19,
+    "logoUrl": "https://livestatic.novopay.in/resources/cms/Lok_Suvidha.png",
+    "allowedPartners": ["fino"]
+  },
+  {
+    "billerName": "Lok Suvidha Customer",
+    "billerCode": "LOK_SUVIDHA_CUST",
+    "partnerCode": "fino",
+    "visibilityStatus": "GA",
+    "isActive": false,
+    "order": 20,
+    "logoUrl": "https://livestatic.novopay.in/resources/cms/Lok_Suvidha.png",
+    "allowedPartners": ["fino"]
+  },
+  {
+    "billerName": "Asirvad Microfinance",
+    "billerCode": "ASIRVAD_MICROFINANCE",
+    "partnerCode": "fino",
+    "visibilityStatus": "GA",
+    "isActive": false,
+    "order": 21,
+    "logoUrl": "",
+    "allowedPartners": ["fino"]
+  },
+  {
+    "billerName": "IndusInd Bank CFD",
+    "billerCode": "INDUSIND_BANK_CFD",
+    "partnerCode": "airtel",
+    "visibilityStatus": "GA",
+    "isActive": false,
+    "order": 22,
+    "logoUrl": "https://livestatic.novopay.in/resources/cms/Indusind_Bank.png",
+    "allowedPartners": ["airtel"]
+  },
+  {
+    "billerName": "Manappuram Finance",
+    "billerCode": "MANNA_FINANCE",
+    "partnerCode": "airtel",
+    "visibilityStatus": "GA",
+    "isActive": false,
+    "order": 23,
+    "logoUrl": "https://livestatic.novopay.in/resources/cms/Manappuram_Finance.png",
+    "allowedPartners": ["airtel"]
+  },
+  {
+    "billerName": "Samasta Microfinance",
+    "billerCode": "SAMASTA_MICROFINANCE",
+    "partnerCode": "airtel",
+    "visibilityStatus": "GA",
+    "isActive": false,
+    "order": 24,
+    "logoUrl": "https://livestatic.novopay.in/resources/cms/Samasta.png",
+    "allowedPartners": ["airtel"]
+  },
+  {
+    "billerName": "Jana Small Finance Bank",
+    "billerCode": "JANA_SMALL_FIN_LTD_AGENT",
+    "partnerCode": "airtel",
+    "visibilityStatus": "GA",
+    "isActive": false,
+    "order": 25,
+    "logoUrl": "https://livestatic.novopay.in/resources/cms/Jana_Small_Finance_Bank.png",
+    "allowedPartners": ["airtel"]
+  },
+  {
+    "billerName": "Manappuram Home Finance",
+    "billerCode": "MANNA_HOUSING_FIN_CUST",
+    "partnerCode": "airtel",
+    "visibilityStatus": "GA",
+    "isActive": false,
+    "order": 26,
+    "logoUrl": "https://livestatic.novopay.in/resources/cms/Manappuram_Home_Finance.png",
+    "allowedPartners": ["airtel"]
+  },
+  {
+    "billerName": "Arohan Financial Services",
+    "billerCode": "AROHAN_FINSERV",
+    "partnerCode": "airtel",
+    "visibilityStatus": "GA",
+    "isActive": false,
+    "order": 27,
+    "logoUrl": "https://livestatic.novopay.in/resources/cms/Arohan.png",
+    "allowedPartners": ["airtel"]
+  },
+  {
+    "billerName": "Midland Microfinance",
+    "billerCode": "MIDLAND_MICROFINANCE",
+    "partnerCode": "airtel",
+    "visibilityStatus": "GA",
+    "isActive": false,
+    "order": 28,
+    "logoUrl": "https://livestatic.novopay.in/resources/cms/Midland_Microfin.png",
+    "allowedPartners": ["airtel"]
+  },
+  {
+    "billerName": "Bussan Auto Finance",
+    "billerCode": "BUSSAN_AUTO_FIN",
+    "partnerCode": "airtel",
+    "visibilityStatus": "GA",
+    "isActive": false,
+    "order": 29,
+    "logoUrl": "https://livestatic.novopay.in/resources/cms/Bussan_Auto_Finance.png",
+    "allowedPartners": ["airtel"]
+  },
+  {
+    "billerName": "Margdarshak Financial Services",
+    "billerCode": "MARGDARSHAK_FIN_SERV_AGENT",
+    "partnerCode": "airtel",
+    "visibilityStatus": "GA",
+    "isActive": false,
+    "order": 30,
+    "logoUrl": "https://livestatic.novopay.in/resources/cms/Margdarshak.png",
+    "allowedPartners": ["airtel"]
+  },
+  {
+    "billerName": "Arth Microfinance",
+    "billerCode": "ARTH_FIN",
+    "partnerCode": "airtel",
+    "visibilityStatus": "GA",
+    "isActive": false,
+    "order": 31,
+    "logoUrl": "https://livestatic.novopay.in/resources/cms/Arth_Financial.png",
+    "allowedPartners": ["airtel"]
+  },
+  {
+    "billerName": "Adani Finance Customer",
+    "billerCode": "ADANI_FINANCE_CUST",
+    "partnerCode": "fino",
+    "visibilityStatus": "GA",
+    "isActive": false,
+    "order": 32,
+    "logoUrl": "https://livestatic.novopay.in/resources/cms/Adani.png",
+    "allowedPartners": ["fino"]
+  }
+]

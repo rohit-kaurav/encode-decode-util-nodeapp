@@ -1,0 +1,27 @@
+{
+  "partner": "fullerton",
+  "md5Hash": {
+    "key": "38557DA7B5F40012C664FEAC70862999"
+  },
+  "rsaEncryption": {
+    "fullerton": {
+      "publicKeyLocation": "./assets/fullerton_rsa_public.pem"
+    },
+    "icici": {
+      "publicKeyLocation": "./assets/icici_public_key.cer",
+      "privateKeyLocation": "./assets/np_private_key.pem"
+    }
+  },
+  "aesEncryption": {
+    "fullerton": {
+      "key": "8wxoTnDywJC5WpruGPqlbjjCugl776VqP6NAMpq2z2E=",
+      "algorithm": "aes-256-ecb",
+      "jsonify": true
+    },
+    "icici": {
+      "key": "d2d041ff-ee87-43",
+      "algorithm": "aes-128-cbc",
+      "jsonify": true
+    }
+  }
+}
